@@ -114,7 +114,7 @@ if (isset($_POST['submit']))
                 <li><a class="active" href="index.php">home</a></li>
               
                 <li><a href="logout.php">logout</a></li>
-                <li><a href="portfolio.php">portfolio</a></li>
+               
                </ul>
     </nav> 
     <div class="container">
