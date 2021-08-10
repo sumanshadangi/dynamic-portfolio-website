@@ -1,6 +1,9 @@
 # dynamic_portfolio
+Home page
 ![screencapture-dynamic1-portfolio-herokuapp-2021-08-10-22_56_22](https://user-images.githubusercontent.com/77740468/128920548-b0aa946c-5b3a-42bd-a04c-8cc2936d7437.png)
+User registration page
 ![screencapture-dynamic1-portfolio-herokuapp-register-php-2021-08-10-22_57_23](https://user-images.githubusercontent.com/77740468/128920632-e1c0c737-b6ab-4442-98f1-39071a6f8c4d.png)
+User login page
 ![screencapture-dynamic1-portfolio-herokuapp-login-php-2021-08-10-22_57_51](https://user-images.githubusercontent.com/77740468/128920743-ac712fee-4269-401e-9285-aff9b5604185.png)
 ![screencapture-dynamic1-portfolio-herokuapp-login-php-2021-08-10-23_31_53](https://user-images.githubusercontent.com/77740468/128920757-144ddc92-d218-4334-ad7d-d48fb1dd8654.png)
 
