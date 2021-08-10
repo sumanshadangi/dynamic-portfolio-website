@@ -137,13 +137,13 @@ if (isset($_POST['submit']))
   
   <div class="col-12">
     <label for="position" class="form-label">Position</label>
-    <input type="text" class="form-control" id="position" name="position" value="<?php echo $position; ?>" placeholder="web Developer" required>
+    <input type="text" class="form-control" id="position" name="position" value="<?php echo $position; ?>" placeholder="e.g. web Developer" required>
   </div>
    
 
   <div class="col-12">
     <label for="about" class="form-label">About You</label>
-    <input type="text" class="form-control" id="about" name="aboutyou" value="<?php echo $aboutyou; ?>" required>
+    <input type="text" class="form-control" id="about" name="aboutyou" value="<?php echo $aboutyou; ?>" placeholder="maximum 120 characters" required>
   </div>
   <div class="col-md-6">
     <label for="linkedin" class="form-label">Linkedin Link</label>
