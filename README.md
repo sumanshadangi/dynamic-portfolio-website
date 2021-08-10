@@ -7,4 +7,7 @@
 ![screencapture-dynamic1-portfolio-herokuapp-welcome-php-2021-08-10-23_31_29](https://user-images.githubusercontent.com/77740468/128920886-da41b09c-a429-4a28-93c4-eea9ebd855ba.png)
 ![screencapture-dynamic1-portfolio-herokuapp-welcome-php-2021-08-10-23_31_04](https://user-images.githubusercontent.com/77740468/128920890-684e5632-c978-4f2a-8017-e4948b7fa974.png)
 ![screencapture-dynamic1-portfolio-herokuapp-portfolio-php-2021-08-10-23_30_00](https://user-images.githubusercontent.com/77740468/128920919-69190e14-1da8-4fa2-abe8-2cc4192c29bc.png)
+![Screenshot (84)](https://user-images.githubusercontent.com/77740468/128921717-d267d4ac-43ee-404a-ad66-9b98e7ae2822.png)
+![Screenshot (85)](https://user-images.githubusercontent.com/77740468/128921730-8648dc76-d549-4713-b94f-327893beb2ac.png)
+
 ![screencapture-dynamic1-portfolio-herokuapp-portfolio-php-2021-08-10-23_30_23](https://user-images.githubusercontent.com/77740468/128920934-be6e5de5-427e-4bf3-87f9-1e76bcb6e940.png)
