@@ -1,4 +1,10 @@
 # dynamic_portfolio
+
+
+https://user-images.githubusercontent.com/77740468/129034370-fd82ead4-4077-4633-b9af-5c1cb424f552.mp4
+
+
+
 Home page
 
 ![screencapture-dynamic1-portfolio-herokuapp-2021-08-10-22_56_22](https://user-images.githubusercontent.com/77740468/128920548-b0aa946c-5b3a-42bd-a04c-8cc2936d7437.png)
